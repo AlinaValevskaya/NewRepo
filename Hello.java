@@ -10,6 +10,7 @@ public class Hello{
         float S=ABC(x, y)/2;
         System.out.println("Площадь прямоугольного треугольника ="+S);
     }
+    //комментарий
 	public static void main(String args[])
 	{
         int a,b;//значение катетов в треугольнике
@@ -18,7 +19,7 @@ public class Hello{
         a=in.nextInt();
         b=in.nextInt();
         //Hello sp = new Hello();
-        //sp.Pr(a,b); 
+        //sp.Pr(a,b);
         Pr(a,b);
 
 	}
