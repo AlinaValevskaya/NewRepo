@@ -18,7 +18,7 @@ public class Hello{
         a=in.nextInt();
         b=in.nextInt();
         //Hello sp = new Hello();
-        //sp.Pr(a,b);
+        //sp.Pr(a,b); 
         Pr(a,b);
 
 	}
