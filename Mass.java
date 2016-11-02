@@ -10,7 +10,5 @@ public class Mass {
             }
             System.out.println("\n");
         }
-
-
     }
 }
